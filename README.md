@@ -28,11 +28,11 @@ Welcome to the **Electric Vehicle Registration Analysis** repository! This proje
 
 2. **Regional Preferences**: Ownership trends varied across different geographic areas, indicating specific market opportunities for businesses aiming to tailor their services to meet local demands.
 
-The image below illustrates car distribution in City
+- The image below illustrates car distribution in City
 
 ![Cars in City](visual%20results/cars%20in%20city.png)
 
-The image below illustrates car distribution in County
+- The image below illustrates car distribution in County
 
 ![County Cars](visual%20results/county%20cars.png)
 
