@@ -17,11 +17,28 @@ Welcome to the **Electric Vehicle Registration Analysis** repository! This proje
   - Model year distribution to evaluate the age of the vehicle fleet in different regions.
 - **Data Visualization**: Created visual representations of the data using PostgreSQL to enhance the understanding of trends and patterns in vehicle registrations.
 
+
+
+
+
 ## Key Findings
 1. **Top Registered Electric Vehicles**: The analysis identified the **Tesla Model Y** as the most registered electric vehicle, with **44,038 registrations**, highlighting significant consumer demand for this model.
+
+![Most Sold Models](visual%20results/most%20sold%20models.png)
+
 2. **Regional Preferences**: Ownership trends varied across different geographic areas, indicating specific market opportunities for businesses aiming to tailor their services to meet local demands.
+
+![Cars in City](visual%20results/cars%20in%20city.png)
+
+![County Cars](visual%20results/county%20cars.png)
+
 3. **Age of Vehicle Fleet**: The model year distribution analysis revealed insights into whether consumers are purchasing new or used vehicles, providing valuable information for automotive companies.
+
+![Model Distribution Based on Year](visual%20results/MODEL%20DISTRIBUTION%20BASED%20ON%20YEAR.png)
+   
 4. **Legislative District Insights**: The examination of vehicle types prevalent in legislative districts offered insights into consumer behavior and potential infrastructure needs for electric vehicles.
+
+![Vehicle Distribution Analysis](visual%20results/most%20sold%20models.png)
 
 ## Implications for Businesses
 - **Targeted Marketing**: Businesses can utilize the insights from this analysis to focus on high-demand vehicles, optimizing their inventory and marketing strategies accordingly.
